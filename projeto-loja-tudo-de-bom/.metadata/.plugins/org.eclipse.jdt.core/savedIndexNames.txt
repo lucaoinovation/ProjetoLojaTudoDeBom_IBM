@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\isaia\Desktop\projeto-loja-tudo-de-bom\.metadata\.plugins\org.eclipse.jdt.core
+2528793046.index
+1372677264.index
+1865797976.index
+2952317221.index
