@@ -4,3 +4,5 @@
 3)importar bd(import from self-contained file)
 4)abrir o eclipse e selecionar pasta com o arquivo
 5)executar index_login(usuario:admin/senha:admin)
+
+obs: lembrando que precisamos verificar a versão do java na IDE. 
