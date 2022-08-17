@@ -1,0 +1,6 @@
+	EndPoints - Sistema de Gerenciamento de 	Farmácia Loja Tudo De bom
+1)puxar pasta zipada
+2)extrair arquivos em uma pasta separada
+3)importar bd(import from self-contained file)
+4)abrir o eclipse e selecionar pasta com o arquivo
+5)executar index_login(usuario:admin/senha:admin)
